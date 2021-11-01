@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">AEF-2020-2021</string>
+    <string name="my_mass">My Mass</string>
+    <string name="welcome_to_my_mass_app">Welcome to My Mass App</string>
+    <string name="get_started">Get started</string>
+    <string name="insert_data_below">Insert data below</string>
+    <string name="insert_your_height_in_cm">Insert your height in cm...</string>
+    <string name="insert_your_weight_in_kgr">Insert your weight in kgr...</string>
+    <string name="calculate">Calculate</string>
+    <string name="warning1">Invalid weight and height values! Change them and try again.</string>
+    <string name="warning2">"Invalid weight value! Change it and try again."</string>
+    <string name="warning3">"Invalid height value! Change it and try again."</string>
+</resources>
